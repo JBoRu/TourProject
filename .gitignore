@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# files
+/sentiment_state_dict
+/bert_state_dict
+/corpus
+
 # C extensions
 *.so
 
