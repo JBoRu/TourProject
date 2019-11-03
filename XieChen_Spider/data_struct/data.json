@@ -1,0 +1,13 @@
+{
+"product_name":"str",
+"score":"4.9",
+"time_value":[{"date":"11.1","price":"1000"},{"date":"11.25","price":"2000"}],
+"schedule_intro":{
+    "summary":{"all_title":""},
+    "schedule_day_1":{"title":"",
+                      "event":[{"location":"sw","score":"4"},{"location":"qw","score":"4.6"}],
+                      "hotel":["h1","h2"]},
+    "schedule_day_2":{},
+    "cost":{"transpotation":"","apartment":""}}
+}
+

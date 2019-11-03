@@ -1,0 +1,14 @@
+搜索结果：//div[@class="main_col"]/div[@class="list_product_box js_product_item"]
+产品首页：//div[@class="detail_header"]
+product_name: //h1
+score://span[@class="score_s"]//em
+value_list://tr/td//span[@class="calendar_price01 red_color"]
+date_list://tr/td//span[@class="calendar_price01 red_color"]/../span[@class="date basefix"]
+month_button://div[@class="d_calendar_month"]//li
+产品概要：//div[@id="schedule_intro"]//table[@class="route_item_table"]//tr//td
+路线行程：//div[@class="bd"]/div[last()]//div[@class="mult_data"]
+每天概要：//div[@class="bd"]/div[last()]//div[@class="mult_data"]//h3
+event://div[@class="bd"]/div[last()]//div[@class="mult_data_con"]/div[@class="mult_data_item J_scheduleSubItemGraphic data_type"]//h4
+score://div[@class="bd"]/div[last()]//div[@class="mult_data_con"]/div[@class="mult_data_item J_scheduleSubItemGraphic data_type"]//h4/span
+hotel://div[@class="bd"]/div[last()]//div[@class="mult_data_con"]/div[@class="mult_specific_item J_scheduleSubItemGraphic"]//h4
+cost://dl[@class="mod_info_box"][last()-1]//table[@class="tour_description_table"]//tbody//td
